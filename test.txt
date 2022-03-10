@@ -1,2 +1,6 @@
 whatson! hello? i'm devkimson!
+<<<<<<< HEAD
 변심을 바꾸자
+=======
+변심
+>>>>>>> 1171f5d3385a982d00e21bc50a55d86eb122984f
