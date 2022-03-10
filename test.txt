@@ -1,6 +1,2 @@
 whatson! hello? i'm devkimson!
-<<<<<<< HEAD
 변심을 바꾸자
-=======
-변심
->>>>>>> e19bfa2 (devkimson-hotfix)
